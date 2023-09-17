@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="$USER_HOME$/anaconda3/bin/black" />
+    <option name="sdkUUID" value="8c9d1bb1-e454-4a3e-8305-8fee9f12f47c" />
+  </component>
+  <component name="NxDevToolsSettings">
+    <node-interpreter value="project" />
+    <nx-package value="/usr/local/lib/node_modules/nx" />
+    <nx.json value="" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (base-conversion)" project-jdk-type="Python SDK" />
+</project>

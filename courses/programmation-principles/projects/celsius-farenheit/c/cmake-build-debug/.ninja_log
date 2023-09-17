@@ -1,0 +1,13 @@
+# ninja log v5
+1	125	1694534110728255221	CMakeFiles/celsius_farenheit.dir/main.c.o	657b27cca7e7cd57
+125	273	1694534110876147287	celsius_farenheit	a2aeed78a5f27b2c
+1	138	1694534281970899171	CMakeFiles/celsius_farenheit.dir/main.c.o	f4fce20feb7ea9fe
+139	287	1694534282118850271	celsius_farenheit	a2aeed78a5f27b2c
+2	123	1694534307314227714	CMakeFiles/celsius_farenheit.dir/main.c.o	f4fce20feb7ea9fe
+123	263	1694534307453960727	celsius_farenheit	a2aeed78a5f27b2c
+2	148	1694534375730824677	CMakeFiles/celsius_farenheit.dir/main.c.o	f4fce20feb7ea9fe
+149	280	1694534375862038230	celsius_farenheit	a2aeed78a5f27b2c
+2	165	1694534477901340113	CMakeFiles/celsius_farenheit.dir/main.c.o	f4fce20feb7ea9fe
+166	337	1694534478073169633	celsius_farenheit	a2aeed78a5f27b2c
+2	137	1694534523071651809	CMakeFiles/celsius_farenheit.dir/main.c.o	f4fce20feb7ea9fe
+137	273	1694534523207048259	celsius_farenheit	a2aeed78a5f27b2c
