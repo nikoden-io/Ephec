@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_celsius_farenheit: phony || CMakeFiles/c
 
 build CMakeFiles/celsius_farenheit.dir/main.c.o: C_COMPILER__celsius_farenheit_unscanned_Debug /Users/nicolasdenoel/Development/GitHub/Ephec/courses/programmation-principles/projects/celsius-farenheit/c/main.c || cmake_object_order_depends_target_celsius_farenheit
   DEP_FILE = CMakeFiles/celsius_farenheit.dir/main.c.o.d
-  FLAGS = -g -std=gnu11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu11 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/celsius_farenheit.dir
   OBJECT_FILE_DIR = CMakeFiles/celsius_farenheit.dir
   TARGET_COMPILE_PDB = CMakeFiles/celsius_farenheit.dir/
@@ -66,7 +66,7 @@ build CMakeFiles/celsius_farenheit.dir/main.c.o: C_COMPILER__celsius_farenheit_u
 # Link the executable celsius_farenheit
 
 build celsius_farenheit: C_EXECUTABLE_LINKER__celsius_farenheit_Debug CMakeFiles/celsius_farenheit.dir/main.c.o
-  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5
   OBJECT_DIR = CMakeFiles/celsius_farenheit.dir
   POST_BUILD = :
   PRE_LINK = :
