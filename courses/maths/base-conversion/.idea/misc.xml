@@ -12,5 +12,5 @@
     <nx-package value="/usr/local/lib/node_modules/nx" />
     <nx.json value="" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (base-conversion)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
 </project>
