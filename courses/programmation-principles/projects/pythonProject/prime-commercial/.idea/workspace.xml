@@ -5,39 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d6f971b-228a-43ea-8a11-3d0775354772" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/first-journey/src/main/java/io/nikoden/firstjourney/config/MongoConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/first-journey/src/main/java/io/nikoden/firstjourney/controller/PersonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/first-journey/src/main/java/io/nikoden/firstjourney/dto/PersonDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/first-journey/src/main/java/io/nikoden/firstjourney/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/first-journey/src/main/java/io/nikoden/firstjourney/repository/PersonRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/first-journey/src/main/java/io/nikoden/firstjourney/service/PersonService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../paypal/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../paypal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../paypal/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../paypal/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../paypal/.idea/paypal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../paypal/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../paypal/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../maths/base-conversion/.idea/base-conversion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../maths/base-conversion/.idea/base-conversion.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../maths/base-conversion/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../maths/base-conversion/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.cmake/api/v1/reply/cache-v2-24c643990dbd399d5053.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-2332c6f2cd4a26a9b0ff.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.cmake/api/v1/reply/index-2023-09-12T15-57-39-0067.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.cmake/api/v1/reply/target-celsius_farenheit-Debug-1458a4fd6f1c6ade3c6d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-c047d413f931e24066aa.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/3.26.4/CMakeCCompiler.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/3.26.4/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/3.26.4/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/celsius_farenheit.dir/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../celsius-farenheit/c/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/Cours002.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/Main.ctxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/Cours002/out/production/Cours002/package.bluej" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/course/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/course/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/course/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/course/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/course/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/course/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/course/out/production/course/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/first-journey.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../java/first-journey/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +38,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2WXOCGFRH93QG7SIVlOHofWk9z1" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,18 +49,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="prime-commercial" />
@@ -103,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696875328569</updated>
       <workItem from="1696875332583" duration="2585000" />
+      <workItem from="1699462440985" duration="7000" />
     </task>
     <servers />
   </component>
