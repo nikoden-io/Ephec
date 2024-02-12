@@ -1,0 +1,15 @@
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/bin/Debug/net8.0/cours05-02
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/bin/Debug/net8.0/cours05-02.deps.json
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/bin/Debug/net8.0/cours05-02.runtimeconfig.json
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/bin/Debug/net8.0/cours05-02.dll
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/bin/Debug/net8.0/cours05-02.pdb
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.AssemblyInfoInputs.cache
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.AssemblyInfo.cs
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.csproj.CoreCompileInputs.cache
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.sourcelink.json
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.dll
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/refint/cours05-02.dll
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.pdb
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/cours05-02.genruntimeconfig.cache
+/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/cours05-02/cours05-02/obj/Debug/net8.0/ref/cours05-02.dll

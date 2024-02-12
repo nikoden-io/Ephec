@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9W6FEpSJwBSD/VunnBMVtLW5jFXbVK0VH0MIqq9acHKndljRZCSDq63XyoQRou9jZJlii8Gds5Pg372VucONw==",
+  "success": true,
+  "projectFilePath": "/Users/nikoden/development/GitHub/Ephec/courses/csharp/code/Intro-Fonctions/IntroFonction_Net6/IntroFonction_Net6.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikoden/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/nikoden/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/nikoden/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.25/microsoft.netcore.app.host.osx-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
